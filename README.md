@@ -13,11 +13,10 @@ Users can select from different voices, listen to the spoken text with real-time
 
 ## 📸 Screenshots
 
-### Homepage demo
-![Course Registration](./Screenshots/home_demo.png)
-
-### History page demo
-![Course Registration](./Screenshots/history_demo.png)
+<p float="left">
+  <img src="Screenshots/home_demo.png" width="300">
+  <img src="Screenshots/history_demo" width="300">
+</p>
 
 ## 🛠️ Tech Stack
 
