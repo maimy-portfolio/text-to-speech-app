@@ -23,4 +23,4 @@ Users can select from different voices, listen to the spoken text with real-time
 - **Flutter**
 - **Dart**
 - [flutter_tts](https://pub.dev/packages/flutter_tts) for text-to-speech functionality
-- [provider](https://pub.dev/packages/provider) for state management (if applicable)
+
